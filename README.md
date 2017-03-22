@@ -16,9 +16,17 @@ This is a RESTful api that returns users and allow to create them
 
 ### Usage examples
 
+- GET /users
+
+``` json
+{
+   "name": "username" 
+}
 ```
-TBD
-```
+## ChangeLog
+
+### 1.0.0 Code refactor
+
 ## Author
 
 - Masiel Raymundo
